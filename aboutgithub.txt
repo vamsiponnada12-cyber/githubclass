@@ -1,0 +1,6 @@
+create a repo in GitHub
+create a folder and add a text file in that folder
+git init
+git status
+git add .
+git commit -m 'msg'
